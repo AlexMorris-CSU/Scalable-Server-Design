@@ -8,10 +8,8 @@ All source files are within the following packages.
 README.txt
 build.gradle
 
-Notes for TA:
--Technically in my code my Threadpool is acting as the server(checking keys and what not). However; I figured this wasn't the
-biggest issue since my Server and Threadpool are combined on only one thread.
--Atleast one client must connect within 20seconds of starting server
+Notes:
+-Atleast one client must connect within 20 seconds of starting server
 
 
 2. How to run:
